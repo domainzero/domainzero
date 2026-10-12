@@ -1,6 +1,5 @@
-- I do dumb things.
-- I write bad code.
-- third line
+- top text
+- bottom text
 
 <!---
 domainzero/domainzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
